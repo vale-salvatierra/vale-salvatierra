@@ -1,26 +1,46 @@
 # 👋 Hi, I'm Valeria
 
-I'm a passionate developer and lifelong learner who enjoys building things with code. I love exploring new technologies and applying them to solve real-world problems. Currently focused on learning fullstack development
+I'm a ** Jr. Full-stack JavaScript developer in progress**, passionate about building clean, scalable, and user-friendly applications.  
+I enjoy bringing ideas to life with React, Node.js, and modern tools, while constantly learning and experimenting with new technologies.
 
-## 🚀Skills
+☕ Curious, detail-oriented, and always learning by building.
 
--Languages: JavaScript...
--Web: HTML, CSS...
--Tools: Git, GitHub, VS Code, Bootstrap...
--Interests: Open Source, Automation, Learning by Doing
+---
+
+## 🚀 Skills
+
+**Languages:** JavaScript (ES6+), TypeScript  
+**Frontend:** React, Redux Toolkit, React Native (beginner)  
+**Backend:** Node.js, Express, REST APIs  
+**Tools & Libraries:** Axios, Git, GitHub, VS Code, Bootstrap, Tailwind CSS  
+**Interests:** Mobile development, Cloud (AWS), automation, and UI/UX design
+
+---
 
 ## 🌱 Currently Learning
 
-- Tailwind
-- React.
+- React Native (mobile development)  
+- AWS basics for deploying and managing apps  
+- Strengthening backend skills with Express and TypeScript
 
-## 💬 Ask me about
+---
 
-- JavaScript basics
-- Front end development.
+## 💬 Ask Me About
+
+- React fundamentals & state management (Redux Toolkit)  
+- Consuming REST APIs with Axios  
+- Building responsive and dynamic UIs with Tailwind CSS  
 - Git & GitHub workflows
 
-## 📫 How to reach me
+---
 
-- Email: [valeriasalvatierra.m@gmail.com]
-- LinkedIn: [here](https://www.linkedin.com/in/valeria-salvatierra-67a313347/)
+## 📫 Connect With Me
+
+- 📧 [valeriasalvatierra.m@gmail.com](mailto:valeriasalvatierra.m@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/valeria-salvatierra-67a313347/)  
+- 🌐 (Add your portfolio link here when ready)
+
+---
+
+> “I learn best by building — each project teaches me something new.”
+
